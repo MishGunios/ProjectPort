@@ -1,3 +1,3 @@
 public class Runner {
-    //Prutzkow pidoras
+    //Prutzkow pidoras suka
 }
